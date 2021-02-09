@@ -1,3 +1,4 @@
 Sample text to test the git changes.
 
 Alright.
+sample text
